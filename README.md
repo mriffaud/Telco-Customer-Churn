@@ -3,7 +3,7 @@
 ![Churn Banner](https://miro.medium.com/max/1400/1*k0aH2ikjVKpXNOIDFKXdTg.png)
 
 # Problem Setting
-
+Customer churn, also known as customer attrition, occurs when customers stopped using a company's product or service during a certain time frame. A telephone companies is interested in identifying segments of these customers because the price of acquisition for a new customer is greater than retaining an existing one.Therefore, they would like a churn prediction model to proactively engage the customers a risk of churning with special offers to prevent them from leaving.
 
 ### Task
 The telephone company is focusing on its churn and wants to predict behavior to retain customers and develop a focused customer retention programs.
