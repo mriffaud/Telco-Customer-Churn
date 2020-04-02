@@ -1,2 +1,2 @@
-# Telco-Customer-Churn
-Focused customer retention program
+# Telco Customer Churn
+
