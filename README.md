@@ -6,7 +6,7 @@
 
 
 ### Task
-
+Telco wants to focus on its retention and wants to predict behavior to retain customers and develop a focused customer retention programs.
 
 # Data
 The dataset is available on Kaggle: [Telco-Customer-Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
