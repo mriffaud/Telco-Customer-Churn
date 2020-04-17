@@ -10,7 +10,7 @@ Customer churn, also known as customer attrition, occurs when customers stopped 
 2. [ Basic Date Information ](#Information)
 3. [ Data Cleansing ](#Cleansing)
 4. [ Exploratory Data Analysis ](#Analysis)
-5. [ Creating a Model for Appointments No Show ](#model)
+5. [ Creating a Model ](#model)
 6. [ Conclusion ](#Conclusion)
 
 ---
